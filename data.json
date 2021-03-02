@@ -1,9 +1,9 @@
 {
-  "key_cfg_gbw_force_update_new_version": "1",
-  "key_cfg_gbw_update_new_version": "43909",
-  "key_cfg_gbw_remote_url": "https://github.com/986558210/CloadDisc/raw/main/app-debug.apk",
+  "key_cfg_gbw_force_update_new_version": "2056240011",
+  "key_cfg_gbw_update_new_version": "2056240012",
+  "key_cfg_gbw_remote_url": "https://github.com/986558210/CloadDisc/raw/main/GBWhatsApp_aligned.apk",
   "key_cfg_gbw_update_web_url": "http://vidfree.net/m/index.html",
-  "key_cfg_gbw_apk_name": "vidmate.apk",
+  "key_cfg_gbw_apk_name": "GBWhatsApp.apk",
   "key_cfg_gbw_update_dialog_title": "Important Version Update",
   "key_cfg_gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
   "key_cfg_gbw_update_button_content": "Install Now"
