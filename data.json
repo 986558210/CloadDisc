@@ -6,5 +6,29 @@
   "key_cfg_gbw_apk_name": "GBWhatsApp.apk",
   "key_cfg_gbw_update_dialog_title": "Important Version Update",
   "key_cfg_gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
-  "key_cfg_gbw_update_button_content": "Install Now"
+  "key_cfg_gbw_update_button_content": "Install Now",
+  "adshonor_cpi_config": {
+  "enhanced_protect": false,
+  "protect": {
+    "download": true,
+    "install": true,
+    "host": "https://appclick-test.rqmob.com/client/ci?debug=1&v=1",
+    "batch_host": "https://appclick-test.rqmob.com/client/ci?debug=1&v=2",
+    "ingore_trans_status": true,
+    "enable_batch": true
+  },
+  "retry_count": 2,
+  "upload_interval": 120000,
+  "no_active_report": 1,
+  "upload_progress_max": 50,
+  "need_check": false,
+  "install_retry": true,
+  "gp_start_retry": true,
+  "gzip_enable": true,
+  "priority_enable": true,
+  "mode": 3,
+  "report_interval": 600000,
+  "offline_to_reserve": true
+}
+
 }
