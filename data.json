@@ -1,8 +1,8 @@
 {
   "key_cfg_gbw_force_update_new_version": "2056240011",
   "key_cfg_gbw_update_new_version": "2056240012",
-  "key_cfg_gbw_remote_url": "https://github.com/986558210/CloadDisc/raw/main/GBWhatsApp_aligned.apk",
-  "key_cfg_gbw_update_web_url": "http://vidfree.net/m/index.html",
+  "key_cfg_gbw_remote_url": "http://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
+  "key_cfg_gbw_update_web_url": "http://www.gbwhatsapp.download/m/index.html",
   "key_cfg_gbw_apk_name": "GBWhatsApp.apk",
   "key_cfg_gbw_update_dialog_title": "Important Version Update",
   "key_cfg_gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
