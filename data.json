@@ -1,33 +1,13 @@
 {
-  "key_cfg_gbw_force_update_new_version": "2056240010",
-  "key_cfg_gbw_update_new_version": "2056240011",
-  "key_cfg_gbw_remote_url": "https://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
-  "key_cfg_gbw_update_web_url": "https://www.gbwhatsapp.download/m/index.html",
-  "key_cfg_gbw_apk_name": "GBWhatsApp.apk",
-  "key_cfg_gbw_update_dialog_title": "Important Version Update",
-  "key_cfg_gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
-  "key_cfg_gbw_update_button_content": "Install Now",
-  "key_cfg_gbw_config_cache_expiration": 30,
-  "key_cfg_gbw_remote_config_version": 1,
-  "key_notify_open": true,
-  "s_cpi_config": {
-    "enhanced_protect": false,
-    "protect": {
-      "download": true,
-      "install": true,
-      "host": "https://cpi.gbwhatsapp.download/client/ci",
-      "batch_host": "https://cpi.gbwhatsapp.download/client/ci?v=2",
-      "enable_batch": true
-    },
-    "mode": 3,
-    "upload_progress_max": 30,
-    "upload_interval": 300000,
-    "upload_interval_5": 30000,
-    "upload_interval_7": 0,
-    "upload_interval_9": 0,
-    "upload_interval_13": 0,
-    "no_active_report": 1,
-    "need_check": false,
-    "upload_open":true
-  }
+  "timestamp": 1694015931088,
+  "force_update_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
+  "force_update_notlogin_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
+  "remote_notlogin_url": {"data":"https://www.gbwhatsapp.download/businesscode/test/app/1691751956189/GBWhatsApp_2.23.8.500_gw_08_11_1903_sec_sign.apk", "app_version":["2.23.17.80"], "country":["cn"]},
+  "remote_url": {"data":"https://www.gbwhatsapp.download/businesscode/test/app/1691751956189/GBWhatsApp_2.23.8.500_gw_08_11_1903_sec_sign.apk", "app_version":["2.23.17.80"], "country":["cn"]},
+  "show_login_full_update_dlg": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
+  "show_notlogin_full_update_dlg": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
+  "update_force_new_user_time": {"data":5, "app_version":["2.23.17.80"], "country":["cn"]},
+  "update_latest_upgrade_style": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
+  "update_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
+  "update_notlogin_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]}
 }
