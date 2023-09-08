@@ -1,13 +1,14 @@
 {
   "timestamp": 1694015931088,
-  "force_update_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
-  "force_update_notlogin_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
+  "force_update_new_version": {"data":231780004, "app_version":["2.23.17.80"], "country":["cn"]},
+  "force_update_notlogin_version": {"data":231780004, "app_version":["2.23.17.80"], "country":["cn"]},
   "remote_notlogin_url": {"data":"https://www.gbwhatsapp.download/businesscode/test/app/1691751956189/GBWhatsApp_2.23.8.500_gw_08_11_1903_sec_sign.apk", "app_version":["2.23.17.80"], "country":["cn"]},
   "remote_url": {"data":"https://www.gbwhatsapp.download/businesscode/test/app/1691751956189/GBWhatsApp_2.23.8.500_gw_08_11_1903_sec_sign.apk", "app_version":["2.23.17.80"], "country":["cn"]},
-  "show_login_full_update_dlg": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
-  "show_notlogin_full_update_dlg": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
+  "show_login_full_update_dlg": {"data":false, "app_version":["2.23.17.80"], "country":["cn"]},
+  "show_notlogin_full_update_dlg": {"data":false, "app_version":["2.23.17.80"], "country":["cn"]},
   "update_force_new_user_time": {"data":5, "app_version":["2.23.17.80"], "country":["cn"]},
   "update_latest_upgrade_style": {"data":true, "app_version":["2.23.17.80"], "country":["cn"]},
   "update_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
-  "update_notlogin_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]}
+  "update_notlogin_new_version": {"data":231780005, "app_version":["2.23.17.80"], "country":["cn"]},
+  "cs_share_open":{"data":true, "app_version":["2.23.17.80"],"country":["cn"]}
 }
